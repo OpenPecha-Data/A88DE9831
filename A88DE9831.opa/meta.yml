@@ -1,0 +1,22 @@
+id: A88DE9831
+title: Prayer to Buddha Amitābha
+type: translation
+pechas:
+- I3AE814DE
+- IEED6EE77
+- IEB474CAA
+source_metadata:
+  languages:
+  - en
+  - pt
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:51:40.919164
+  last_modified_at: 2023-01-04 11:51:40.919179
+  collections:
+  - Fifteenth Karmapa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I3AE814DE/7180: 0A54
+  IEED6EE77/4D46: 0A54
+  IEB474CAA/7D33: 0A54
